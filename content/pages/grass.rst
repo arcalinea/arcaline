@@ -12,7 +12,7 @@ Grass
 | They stretch into the distance, to ancient roads.
 | Bright and green, they bridge abandoned cities.
 | Again I bid farewell to my friend,
-| Each blade is full of the weight of departure.
+| Each blade is filled with the weight of departure.
 |
 |
 | Li Ju-Yi
