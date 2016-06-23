@@ -11,6 +11,8 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 
 THEME = 'cebong'
+DISPLAY_PAGES_ON_MENU = True
+
 
 DEFAULT_LANG = u'en'
 
@@ -23,7 +25,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Person', 'http://www.jaygraber.com/'),
-         ('Poems', 'http://www.cavafy.com/poems/content.asp?cat=1&id=74'),
+         ('Credits', 'http://www.musicated.com/syh/tangpoems.htm'),
          ('Return', '#'),)
 
 # Social widget
