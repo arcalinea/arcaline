@@ -15,7 +15,7 @@ as long as a rare excitement
 stirs your spirit and your body.
 Laistrygonians and Cyclops,
 wild Poseidon—you won’t encounter them
-unless you bring them along inside your soul,
+unless you bring them along inside you,
 unless your soul sets them up in front of you.
  
 Hope the voyage is a long one.
