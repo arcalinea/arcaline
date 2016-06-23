@@ -9,8 +9,8 @@ Grass
 | Yet wildfires cannot extinguish the inner life,
 | When the spring wind blows it grows again. 
 | 
-| They stretch into the distance, to ancient roads.
-| Bright and green, they bridge abandoned cities.
+| Miles of grass expands beyond the horizon, past ancient roads.
+| Clear, crisp and green, it bridges abandoned cities.
 | Again I bid farewell to my friend,
 | Each blade is filled with the weight of departure.
 |
