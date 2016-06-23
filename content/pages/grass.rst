@@ -9,7 +9,7 @@ Grass
 | Yet wildfires cannot extinguish the inner life,
 | When the spring wind blows it grows again. 
 | 
-| Miles of grass expands beyond the horizon, past ancient roads.
+| Miles of grass expands to the horizon, beyond ancient roads.
 | Clear, crisp and green, it bridges abandoned cities.
 | Again I bid farewell to my friend,
 | Each blade is filled with the weight of departure.
